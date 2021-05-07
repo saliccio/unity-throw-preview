@@ -9,7 +9,7 @@ LinePrefab - Line prefab you want to instantiate.
 
 CameraOffset - Line start position relative to the camera.
 
-PointInterval - X intervals of the parabola. If you increase this, the parabola's lines will be more unvisible.
+PointInterval - X intervals of the parabola. If you increase this, the parabola's line segments will be more unvisible.
 
 PeakY - How much do you want to raise the parabola in Y axis.
 
